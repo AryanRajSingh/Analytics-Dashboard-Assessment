@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Analytics-Dashboard-Assessment/static/css/main.c7973a2b.css",
+    "main.js": "/Analytics-Dashboard-Assessment/static/js/main.ade8f41c.js",
+    "static/js/453.babad1e6.chunk.js": "/Analytics-Dashboard-Assessment/static/js/453.babad1e6.chunk.js",
+    "index.html": "/Analytics-Dashboard-Assessment/index.html",
+    "main.c7973a2b.css.map": "/Analytics-Dashboard-Assessment/static/css/main.c7973a2b.css.map",
+    "main.ade8f41c.js.map": "/Analytics-Dashboard-Assessment/static/js/main.ade8f41c.js.map",
+    "453.babad1e6.chunk.js.map": "/Analytics-Dashboard-Assessment/static/js/453.babad1e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7973a2b.css",
+    "static/js/main.ade8f41c.js"
+  ]
+}
